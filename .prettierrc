@@ -1,4 +1,4 @@
 {
-  "singleQuote": false,  // aspas simples
-  "trailingComma": "es5" // virgula que fica no final dos objetos e arrays
+  "singleQuote": true,
+  "trailingComma": "es5"
 }
